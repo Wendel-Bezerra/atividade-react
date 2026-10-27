@@ -1,0 +1,11 @@
+{
+  "name": "Atividade React",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:22",
+  "postCreateCommand": "npm install",
+  "forwardPorts": [5173],
+  "customizations": {
+    "vscode": {
+      "extensions": ["MS-CEINTL.vscode-language-pack-pt-BR"]
+    }
+  }
+}
